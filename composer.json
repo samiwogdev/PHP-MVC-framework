@@ -1,0 +1,15 @@
+{
+    "name": "samiwog/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "Samiwog\\PhpMvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samuel Idowu Ogunbodede",
+            "email": "samiwogdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
